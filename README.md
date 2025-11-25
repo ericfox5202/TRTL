@@ -13,7 +13,7 @@ pip install -r requirements.txt
 This project has been tested with:
 
 * Python ≥ 3.8
-* CUDA-enabled GPU (recommended)
+* CUDA-enabled GPU
 
 ---
 
